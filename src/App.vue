@@ -59,21 +59,19 @@
 
                                 <li class="nav-item">
                                    <router-link to="/" class="nav-link">Home</router-link>
-                                    <!-- <a class="nav-link" href="index.html">Home</a> -->
                                 </li>
 
                                 <li class="nav-item">
                                   <router-link to="/about" class="nav-link">About</router-link>
-                                    <!-- <a class="nav-link" href="about-us.html">About Us</a> -->
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="product-list.html">Product</a>
+                                     <router-link to="/product" class="nav-link">Product</router-link>
                                 </li>
 
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="blog.html">Reviews</a>
+                                    <router-link to="/blog" class="nav-link">Reviews</router-link>
                                 </li>
 
                                 <li class="nav-item">
